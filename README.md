@@ -1,2 +1,2 @@
 # learninggithub
-Learning to use github with Kokou
+Learning github with Cece
